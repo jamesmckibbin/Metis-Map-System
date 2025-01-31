@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset",
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset",
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/RT_MetisMinimap.uasset",
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset"
 			]
 		}
 	]

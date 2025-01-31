@@ -1695,3 +1695,1489 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.31-07.31.46:096][833]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.01.31-07.31.46:096][833]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2025.01.31-07.31.46:096][833]LogShaderCompilers: Display: ================================================
+[2025.01.31-07.34.00:602][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1047.345337
+[2025.01.31-07.34.01:602][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-07.34.01:602][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1048.011230, Update Interval: 343.840454
+[2025.01.31-07.40.06:409][254]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.01.31-07.40.06:481][254]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.01.31-07.40.06:497][254]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.01.31-07.40.06:531][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1413.271484
+[2025.01.31-07.40.06:677][256]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.01.31-07.40.06:744][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-07.40.06:744][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1413.476929, Update Interval: 330.663788
+[2025.01.31-07.40.08:023][411]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2025.01.31-07.40.08:254][411]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.01.31-07.40.08:828][464]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Metis/NewWidgetBlueprint.NewWidgetBlueprint
+[2025.01.31-07.40.08:828][464]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.01.31-07.40.08:834][464]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.01.31-07.40.08:841][464]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.01.31-07.40.10:281][464]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.01.31-07.40.10:281][464]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.01.31-07.40.10:822][464]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.01.31-07.40.10:855][464]LogSlate: Took 0.015502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.01.31-07.41.59:183][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.31-07.42.00:029][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.42.00:055][ 99]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.42.00:117][ 99]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/NewWidgetBlueprint.NewWidgetBlueprint]
+[2025.01.31-07.42.00:118][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.42.00:118][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.42.00:218][ 99]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.42.00:218][ 99]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprint7BA9022D493A1697E9F680B386C8C30F.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.42.00:263][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 234.560 ms (total: 925.617 ms)
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: Enabled validators:
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.42.00:278][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.42.00:280][ 99]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.44.16:013][ 91]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:015][ 91]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:016][ 91]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:018][ 91]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:019][ 91]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:022][ 91]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:077][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:079][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:080][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:082][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:083][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:085][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:086][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:087][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:089][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:091][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:092][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:094][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:096][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:098][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:100][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:101][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:103][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:122][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:124][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:125][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:127][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:129][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:130][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:132][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:135][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:194][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:196][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:197][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:206][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:274][ 96]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:283][ 96]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:293][ 97]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:296][ 97]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:351][ 98]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:353][ 98]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:355][ 98]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:369][ 99]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:371][ 99]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:372][ 99]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:374][ 99]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:375][ 99]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:379][ 99]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:434][100]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:441][100]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:450][101]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:515][102]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:525][103]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:596][105]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:658][106]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:723][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:725][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:726][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:729][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:730][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:732][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:733][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:735][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:736][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:737][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:744][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:755][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:757][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:759][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:815][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:817][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:818][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:820][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:821][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:836][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:838][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:839][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:841][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:842][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:845][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:846][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:847][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:848][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:850][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:851][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:853][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:854][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:855][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:858][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:861][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:917][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:919][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:921][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:922][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:924][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:932][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:941][113]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:943][113]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.16:996][114]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:003][114]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:014][115]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:078][117]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:133][118]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:195][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:197][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:198][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:200][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:207][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:217][121]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:219][121]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:270][122]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:286][123]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:289][123]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:338][124]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:345][124]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:406][126]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:413][126]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:421][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:424][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:475][128]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:492][129]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:541][130]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:548][130]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:557][131]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:559][131]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:611][132]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:612][132]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:614][132]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:620][132]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:631][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:634][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:684][134]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:700][135]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:702][135]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:703][135]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:707][135]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:758][136]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:765][136]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:775][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:777][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:826][138]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:834][138]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:844][139]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:847][139]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:898][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:900][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:901][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:903][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:905][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:920][141]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:922][141]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:923][141]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:925][141]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:927][141]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:977][142]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:984][142]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:994][143]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.17:996][143]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:046][144]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:049][144]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:050][144]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:056][144]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:066][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:068][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:070][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:072][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:075][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:126][146]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:128][146]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:145][147]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:147][147]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:149][147]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:153][147]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:204][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:207][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:208][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:210][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:217][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:229][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:230][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:232][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:283][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:284][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:287][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:288][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:295][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:305][151]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:308][151]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:358][152]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:373][153]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:423][154]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:430][154]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:439][155]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:496][156]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:508][157]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.18:558][158]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.01.31-07.44.59:606][754]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.31-07.45.05:274][413]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.31-07.45.11:610][156]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.31-07.45.14:667][512]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.31-07.45.19:968][130]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.31-07.45.42:657][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.45.42:684][810]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.45.42:696][810]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/NewWidgetBlueprint.NewWidgetBlueprint]
+[2025.01.31-07.45.42:696][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.45.42:696][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.45.42:698][810]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.45.42:699][810]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprint858DF5954309549D24866FA0C1D79399.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.45.42:704][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.420 ms (total: 972.037 ms)
+[2025.01.31-07.45.42:725][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.45.42:725][810]LogContentValidation: Enabled validators:
+[2025.01.31-07.45.42:725][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.45.42:725][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.45.42:725][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.45.42:725][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.45.42:725][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.45.42:725][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.45.42:725][810]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.45.45:743][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.31-07.45.49:073][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.45.49:091][557]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.45.49:092][557]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/NewWidgetBlueprint.NewWidgetBlueprint]
+[2025.01.31-07.45.49:092][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.45.49:092][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.45.49:095][557]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.45.49:095][557]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprint4D227F1746D79422EFD1A8B4E42205BE.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.45.49:101][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.323 ms (total: 1.00 sec)
+[2025.01.31-07.45.49:119][557]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.45.49:119][557]LogContentValidation: Enabled validators:
+[2025.01.31-07.45.49:119][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.45.49:119][557]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.45.49:119][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.45.49:119][557]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.45.49:119][557]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.45.49:119][557]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.45.49:120][557]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.45.54:327][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.45.54:350][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.45.54:350][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.45.54:350][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.45.54:353][160]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.45.54:353][160]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprint27968F1F4498399C8864399F934B718A.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.45.54:357][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.256 ms (total: 1.03 sec)
+[2025.01.31-07.45.54:382][160]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.45.54:382][160]LogContentValidation: Enabled validators:
+[2025.01.31-07.45.54:382][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.45.54:382][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.45.54:382][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.45.54:382][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.45.54:382][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.45.54:382][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.45.54:383][160]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.46.03:474][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1770.221924
+[2025.01.31-07.46.03:517][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-07.46.03:517][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1770.257202, Update Interval: 302.962738
+[2025.01.31-07.46.13:317][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.46.13:341][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.46.13:342][345]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/NewWidgetBlueprint.NewWidgetBlueprint]
+[2025.01.31-07.46.13:342][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.46.13:343][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.46.13:345][345]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.46.13:345][345]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprintFF61767D41534C5BF8514984FC4B55C1.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.46.13:350][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.944 ms (total: 1.06 sec)
+[2025.01.31-07.46.13:368][345]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.46.13:368][345]LogContentValidation: Enabled validators:
+[2025.01.31-07.46.13:368][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.46.13:368][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.46.13:368][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.46.13:368][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.46.13:368][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.46.13:368][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.46.13:368][345]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.46.17:390][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.46.17:411][787]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.46.17:412][787]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/NewWidgetBlueprint.NewWidgetBlueprint]
+[2025.01.31-07.46.17:412][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.46.17:412][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.46.17:416][787]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.46.17:416][787]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprintE6D21E5E4F003A701528B18FED5EBB5D.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.46.17:421][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.010 ms (total: 1.09 sec)
+[2025.01.31-07.46.17:445][787]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.46.17:445][787]LogContentValidation: Enabled validators:
+[2025.01.31-07.46.17:445][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.46.17:445][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.46.17:445][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.46.17:445][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.46.17:445][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.46.17:445][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.46.17:445][787]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.46.19:889][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.46.19:905][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.46.19:905][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.46.19:905][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.46.19:908][ 51]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.46.19:908][ 51]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprint59BBAAAD43D8ADF79AAB1A8D788E6903.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.46.19:913][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.164 ms (total: 1.11 sec)
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: Enabled validators:
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.46.19:934][ 51]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.46.19:934][ 51]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.46.20:680][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.46.20:699][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.01.31-07.46.20:699][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/NewWidgetBlueprint]
+[2025.01.31-07.46.20:699][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/NewWidgetBlueprint" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset" SILENT=true
+[2025.01.31-07.46.20:701][139]LogSavePackage: Moving output files for package: /Game/Metis/NewWidgetBlueprint
+[2025.01.31-07.46.20:701][139]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/NewWidgetBlueprint41391F204D905ABC6514E1BB24016294.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset'
+[2025.01.31-07.46.20:705][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.799 ms (total: 1.14 sec)
+[2025.01.31-07.46.20:726][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.46.20:726][139]LogContentValidation: Enabled validators:
+[2025.01.31-07.46.20:726][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.46.20:726][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.46.20:726][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.46.20:726][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.46.20:726][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.46.20:726][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.46.20:726][139]AssetCheck: /Game/Metis/NewWidgetBlueprint Validating asset
+[2025.01.31-07.46.21:707][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.31-07.46.27:753][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.46.27:772][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.46.27:772][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.46.27:779][952]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.46.27:779][952]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacterBED98C374598FE02EC5CEFBEF964378F.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.46.27:785][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.459 ms (total: 1.17 sec)
+[2025.01.31-07.46.27:804][952]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.46.27:804][952]LogContentValidation: Enabled validators:
+[2025.01.31-07.46.27:804][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.46.27:804][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.46.27:804][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.46.27:804][952]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.46.27:804][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.46.27:804][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.46.27:804][952]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.46.53:823][ 28]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_MetisMinimap
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.SKEL_WB_MetisMinimap_C' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.WB_MetisMinimap_C' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.WB_MetisMinimap:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.WB_MetisMinimap:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.WB_MetisMinimap:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.SKEL_WB_MetisMinimap_C:Tick' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.SKEL_WB_MetisMinimap_C:Construct' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:099][ 28]LogMetaData: Removing '/Game/Metis/WB_MetisMinimap.SKEL_WB_MetisMinimap_C:PreConstruct' ref from Metadata '/Game/Metis/NewWidgetBlueprint.PackageMetaData'
+[2025.01.31-07.46.55:203][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.46.55:203][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.46.55:204][ 28]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/WB_MetisMinimap.WB_MetisMinimap]
+[2025.01.31-07.46.55:205][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.46.55:205][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.46.55:206][ 28]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.46.55:206][ 28]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimapFE0E09534BE5C6D2AF7C44AB88F758CF.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.46.55:211][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.693 ms (total: 1.18 sec)
+[2025.01.31-07.46.55:335][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.31-07.46.55:352][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.31-07.46.55:366][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.31-07.46.55:395][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.46.55:395][ 28]LogContentValidation: Enabled validators:
+[2025.01.31-07.46.55:395][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.46.55:395][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.46.55:395][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.46.55:396][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.46.55:396][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.46.55:396][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.46.55:396][ 28]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.47.01:297][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.47.01:314][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.47.01:314][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.47.01:314][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.47.01:316][730]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.47.01:316][730]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap408875AE43D7E683F3B0C3A4C3E46277.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.47.01:323][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.812 ms (total: 1.21 sec)
+[2025.01.31-07.47.01:343][730]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.47.01:343][730]LogContentValidation: Enabled validators:
+[2025.01.31-07.47.01:343][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.47.01:343][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.47.01:343][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.47.01:343][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.47.01:343][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.47.01:343][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.47.01:343][730]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.47.47:306][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.47.47:321][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.47.47:356][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.47.47:356][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.47.47:363][ 30]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.47.47:364][ 30]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter8B0C8E6441973E422D1AF3B3A0EB47DB.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.47.47:369][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.816 ms (total: 1.27 sec)
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: Enabled validators:
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.47.47:388][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.47.47:388][ 30]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.47.51:721][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.47.51:737][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.47.51:773][524]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.47.51:773][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.47.51:779][524]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.47.51:780][524]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacterD9CCFA5144910F26AC30FFB56A9E3E00.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.47.51:785][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.354 ms (total: 1.33 sec)
+[2025.01.31-07.47.51:808][524]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.47.51:808][524]LogContentValidation: Enabled validators:
+[2025.01.31-07.47.51:808][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.47.51:808][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.47.51:808][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.47.51:808][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.47.51:808][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.47.51:808][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.47.51:808][524]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.47.53:400][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.47.53:418][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.47.53:418][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.47.53:426][714]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.47.53:427][714]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter41C51CA14F716C4DE63AADADE07BB2AD.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.47.53:431][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.873 ms (total: 1.37 sec)
+[2025.01.31-07.47.53:451][714]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.47.53:451][714]LogContentValidation: Enabled validators:
+[2025.01.31-07.47.53:451][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.47.53:451][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.47.53:451][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.47.53:451][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.47.53:451][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.47.53:452][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.47.53:452][714]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.47.58:640][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.47.58:662][306]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.47.58:696][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.47.58:696][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.47.58:704][306]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.47.58:704][306]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter5520A2254C722150172209B3F4928475.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.47.58:710][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.082 ms (total: 1.44 sec)
+[2025.01.31-07.47.58:733][306]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.47.58:733][306]LogContentValidation: Enabled validators:
+[2025.01.31-07.47.58:733][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.47.58:733][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.47.58:733][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.47.58:733][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.47.58:733][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.47.58:733][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.47.58:733][306]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.48.00:171][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.31-07.48.02:296][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.31-07.48.02:300][701]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.31-07.48.02:300][701]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.31-07.48.02:302][701]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.531 ms (total: 60.843 ms)
+[2025.01.31-07.48.02:302][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.31-07.48.02:337][701]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2025.01.31-07.48.02:339][701]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.01.31-07.48.02:388][702]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-07.48.02:391][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002280s)
+[2025.01.31-07.48.02:391][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002310s)
+[2025.01.31-07.48.02:409][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.31-07.48.02:413][702]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.31-07.48.02:414][702]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.31-07.48.02:414][702]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.31-07.48.02:414][702]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.31-07.48.02:414][702]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.31-07.48.02:414][702]LogWorldPartition: Display: WorldPartition initialize took 847 us (total: 68.277 ms)
+[2025.01.31-07.48.02:415][702]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2025.01.31-07.48.02:436][702]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.31-07.48.02:436][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.31-07.48.02:436][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.31-07.48.02:436][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.31-07.48.02:436][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.31-07.48.02:436][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.31-07.48.02:436][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.31-07.48.02:436][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.31-07.48.02:436][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.31-07.48.02:436][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.31-07.48.02:436][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.31-07.48.02:436][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.31-07.48.02:438][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.31-07.48.02:468][702]LogAudioMixer: Display: Using Audio Hardware Device Speakers (5- Razer Kraken V3 Pro)
+[2025.01.31-07.48.02:469][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.31-07.48.02:469][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.31-07.48.02:469][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.31-07.48.02:469][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.31-07.48.02:469][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.31-07.48.02:471][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.31-07.48.02:471][702]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.31-07.48.02:471][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.31-07.48.02:471][702]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.01.31-07.48.02:471][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.31-07.48.02:473][702]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.31-07.48.02:474][702]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.01.31-02.48.02
+[2025.01.31-07.48.02:474][702]LogWorld: Bringing up level for play took: 0.001019
+[2025.01.31-07.48.02:525][702]PIE: Server logged in
+[2025.01.31-07.48.02:525][702]PIE: Play in editor total start time 0.226 seconds.
+[2025.01.31-07.48.06:087][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-07.48.06:087][ 60]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-07.48.06:093][ 60]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-07.48.06:093][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-07.48.06:093][ 60]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.31-07.48.06:096][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.31-07.48.06:101][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-07.48.06:118][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-07.48.06:118][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.31-07.48.06:118][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.31-07.48.06:120][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.31-07.48.06:125][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.31-07.48.06:185][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.01.31-07.48.26:151][408]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.31-07.48.26:613][408]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 300.61 ms. Compile time 297.74 ms, link time 2.83 ms.
+[2025.01.31-07.48.26:774][408]LogD3D12RHI: Creating RTPSO with 18 shaders (0 cached, 18 new) took 561.84 ms. Compile time 552.08 ms, link time 9.75 ms.
+[2025.01.31-07.48.29:484][693]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.31-07.48.45:106][455]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.31-07.48.46:225][520]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.31-07.49.12:310][469]LogEditorTransaction: Undo Edit Left
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: ================================================
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Total job queries 11,659, among them cache hits 7 (0.06%), DDC hits 0 (0.00%), Duplicates 2,682 (23.00%)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Tracking 8,970 distinct input hashes that result in 8,477 distinct outputs (94.50%)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: RAM used: 6.36 MiB of 1.60 GiB budget. Usage: 0.39%
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Shaders Compiled: 8,970
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Jobs assigned 8,970, completed 8,970 (100%)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Average time worker was idle: 8.97 s
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Time job spent in pending queue: average 166.61 s, longest 342.18 s
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Job execution time: average 3.16 s, max 59.13 s
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Job life time (pending + execution): average 169.76 s, max 342.63
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Shader code size: average 14.288 KiB, min 1.16 KiB, max 330.166 KiB
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 371.17 s
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.45%
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Jobs were issued in 990 batches (only local compilation was used), average 9.06 jobs/batch
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Average processing rate: 24.17 jobs/sec
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Total thread time: 2,827.72 s
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Total thread preprocess time: 89.385 s
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Percentage time preprocessing: 3.16%
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Effective parallelization: 7.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 9.28 sec, max 37.54 sec, min 0.69 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.08 sec, max 8.08 sec, min 8.08 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.14 sec, max 5.61 sec, min 3.25 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                      FHairDebugPrintMemoryCS (compiled    1 times, average 3.43 sec, max 3.43 sec, min 3.43 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                    FHairDebugPrintInstanceCS (compiled    1 times, average 2.39 sec, max 2.39 sec, min 2.39 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.53% of total time (compiled  454 times, average 0.84 sec, max 1.16 sec, min 0.60 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 11.31% of total time (compiled  260 times, average 1.23 sec, max 4.12 sec, min 0.00 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 8.86% of total time (compiled   27 times, average 9.28 sec, max 37.54 sec, min 0.69 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.17% of total time (compiled  480 times, average 0.30 sec, max 0.63 sec, min 0.13 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.97% of total time (compiled   72 times, average 1.56 sec, max 3.78 sec, min 1.05 sec)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: === Material stats ===
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Materials Translated:    135
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Material Translation Only: 0.03 s (36%)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.31-07.49.46:278][328]LogShaderCompilers: Display: ================================================
+[2025.01.31-07.50.49:127][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.50.49:142][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.50.49:144][614]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/WB_MetisMinimap.WB_MetisMinimap]
+[2025.01.31-07.50.49:144][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.50.49:144][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.50.49:146][614]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.50.49:147][614]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap61E2BFF34A47665F555E91A8E3156F85.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.50.49:152][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.560 ms (total: 1.46 sec)
+[2025.01.31-07.50.49:170][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.50.49:170][614]LogContentValidation: Enabled validators:
+[2025.01.31-07.50.49:170][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.50.49:170][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.50.49:170][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.50.49:170][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.50.49:170][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.50.49:170][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.50.49:170][614]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.50.51:890][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.31-07.51.29:604][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.51.29:625][347]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.51.29:626][347]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/WB_MetisMinimap.WB_MetisMinimap]
+[2025.01.31-07.51.29:626][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.51.29:626][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.51.29:629][347]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.51.29:629][347]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap4D2E145E415E7D90640077B9E3C379ED.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.51.29:635][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.741 ms (total: 1.49 sec)
+[2025.01.31-07.51.29:654][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.51.29:654][347]LogContentValidation: Enabled validators:
+[2025.01.31-07.51.29:654][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.51.29:654][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.51.29:654][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.51.29:654][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.51.29:654][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.51.29:654][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.51.29:654][347]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.51.55:216][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.51.55:231][379]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.51.55:233][379]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/WB_MetisMinimap.WB_MetisMinimap]
+[2025.01.31-07.51.55:233][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.51.55:233][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.51.55:235][379]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.51.55:236][379]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap374C1734462B66360931C7B938151D95.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.51.55:241][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.405 ms (total: 1.52 sec)
+[2025.01.31-07.51.55:260][379]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.51.55:260][379]LogContentValidation: Enabled validators:
+[2025.01.31-07.51.55:260][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.51.55:260][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.51.55:260][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.51.55:260][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.51.55:260][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.51.55:260][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.51.55:260][379]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.51.58:183][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.51.58:204][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.51.58:204][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.51.58:204][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.51.58:207][721]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.51.58:208][721]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap9A9A966A4C981E321D84AF8DEC2AF38E.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.51.58:213][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.093 ms (total: 1.55 sec)
+[2025.01.31-07.51.58:234][721]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.51.58:234][721]LogContentValidation: Enabled validators:
+[2025.01.31-07.51.58:234][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.51.58:234][721]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.51.58:234][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.51.58:234][721]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.51.58:234][721]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.51.58:234][721]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.51.58:234][721]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.51.59:049][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.31-07.52.06:403][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2133.155762
+[2025.01.31-07.52.06:453][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-07.52.06:453][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2133.197510, Update Interval: 354.913177
+[2025.01.31-07.54.34:427][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.54.34:446][326]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.54.34:447][326]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/WB_MetisMinimap.WB_MetisMinimap]
+[2025.01.31-07.54.34:447][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.54.34:447][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.54.34:450][326]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.54.34:450][326]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap75874DE34342D3E3EB809F8A43AF24AF.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.54.34:456][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.672 ms (total: 1.58 sec)
+[2025.01.31-07.54.34:474][326]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.54.34:474][326]LogContentValidation: Enabled validators:
+[2025.01.31-07.54.34:474][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.54.34:474][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.54.34:474][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.54.34:474][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.54.34:474][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.54.34:474][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.54.34:474][326]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.54.38:850][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.54.38:874][838]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.54.38:877][838]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/WB_MetisMinimap.WB_MetisMinimap]
+[2025.01.31-07.54.38:877][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.54.38:877][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.54.38:879][838]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.54.38:880][838]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimapA271CB35443B7A082714769DAB3C16BD.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.54.38:886][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.614 ms (total: 1.61 sec)
+[2025.01.31-07.54.38:904][838]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.54.38:904][838]LogContentValidation: Enabled validators:
+[2025.01.31-07.54.38:904][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.54.38:904][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.54.38:904][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.54.38:904][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.54.38:904][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.54.38:904][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.54.38:904][838]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.54.55:771][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.54.55:789][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.54.55:789][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.54.55:789][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.54.55:791][840]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.54.55:791][840]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap8AA777ED49CA09EC5154B9B57DE8C6A5.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.54.55:796][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.262 ms (total: 1.64 sec)
+[2025.01.31-07.54.55:821][840]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.54.55:821][840]LogContentValidation: Enabled validators:
+[2025.01.31-07.54.55:821][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.54.55:821][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.54.55:821][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.54.55:821][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.54.55:821][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.54.55:821][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.54.55:821][840]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.54.56:498][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.31-07.54.57:978][ 84]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.31-07.54.57:981][ 84]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.31-07.54.57:981][ 84]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.31-07.54.57:983][ 84]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.467 ms (total: 62.310 ms)
+[2025.01.31-07.54.57:983][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.31-07.54.58:017][ 84]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2025.01.31-07.54.58:019][ 84]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.01.31-07.54.58:038][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-07.54.58:041][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2025.01.31-07.54.58:041][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002436s)
+[2025.01.31-07.54.58:057][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.31-07.54.58:062][ 85]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.31-07.54.58:063][ 85]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.31-07.54.58:063][ 85]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.31-07.54.58:063][ 85]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.31-07.54.58:063][ 85]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.31-07.54.58:064][ 85]LogWorldPartition: Display: WorldPartition initialize took 863 us (total: 69.140 ms)
+[2025.01.31-07.54.58:064][ 85]LogPlayLevel: PIE: World Init took: (0.002044s)
+[2025.01.31-07.54.58:064][ 85]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.01.31-07.54.58:064][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.31-07.54.58:064][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.31-07.54.58:064][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.31-07.54.58:064][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.31-07.54.58:064][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.31-07.54.58:064][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.31-07.54.58:064][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.31-07.54.58:064][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.31-07.54.58:064][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.31-07.54.58:064][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.31-07.54.58:064][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.31-07.54.58:068][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.31-07.54.58:096][ 85]LogAudioMixer: Display: Using Audio Hardware Device Speakers (5- Razer Kraken V3 Pro)
+[2025.01.31-07.54.58:097][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.31-07.54.58:097][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.31-07.54.58:097][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.31-07.54.58:097][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.01.31-07.54.58:097][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.01.31-07.54.58:099][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.01.31-07.54.58:099][ 85]LogInit: FAudioDevice initialized with ID 4.
+[2025.01.31-07.54.58:099][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.01.31-07.54.58:099][ 85]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.01.31-07.54.58:099][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.31-07.54.58:104][ 85]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.31-07.54.58:105][ 85]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.01.31-02.54.58
+[2025.01.31-07.54.58:105][ 85]LogWorld: Bringing up level for play took: 0.001192
+[2025.01.31-07.54.58:109][ 85]PIE: Server logged in
+[2025.01.31-07.54.58:110][ 85]PIE: Play in editor total start time 0.129 seconds.
+[2025.01.31-07.55.10:577][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-07.55.10:577][418]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-07.55.10:577][418]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-07.55.10:578][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-07.55.10:578][418]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.31-07.55.10:581][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.31-07.55.10:585][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-07.55.10:602][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-07.55.10:602][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.31-07.55.10:602][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.31-07.55.10:604][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.31-07.55.10:610][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.31-07.55.10:663][419]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.01.31-07.56.55:184][848]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.31-07.57.12:256][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.57.12:292][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.57.12:297][445]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.57.12:297][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.57.12:306][445]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.57.12:306][445]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacterA3B9B0B546AD533A713DB5A4C2B37048.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.57.12:313][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.947 ms (total: 1.69 sec)
+[2025.01.31-07.57.12:333][445]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.57.12:333][445]LogContentValidation: Enabled validators:
+[2025.01.31-07.57.12:333][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.57.12:333][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.57.12:333][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.57.12:333][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.57.12:333][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.57.12:333][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.57.12:333][445]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.57.16:252][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.57.16:287][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.57.16:287][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.57.16:296][810]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.57.16:296][810]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter5263E7144625C5B0BEC103B1A432545E.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.57.16:303][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.462 ms (total: 1.74 sec)
+[2025.01.31-07.57.16:324][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.57.16:324][810]LogContentValidation: Enabled validators:
+[2025.01.31-07.57.16:324][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.57.16:324][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.57.16:324][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.57.16:324][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.57.16:324][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.57.16:324][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.57.16:324][810]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.57.17:010][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.31-07.57.18:854][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.57.18:891][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.57.18:896][ 41]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.57.18:896][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.57.18:904][ 41]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.57.18:904][ 41]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter5A72111B4DC95867C0C1F9BDDE10030C.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.57.18:911][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.379 ms (total: 1.80 sec)
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: Enabled validators:
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.57.18:932][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.57.18:932][ 41]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.57.43:772][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.57.43:790][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.57.43:796][346]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.57.43:796][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.57.43:804][346]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.57.43:804][346]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter7AB81E2841340095E04182B0C90A83C2.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.57.43:811][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.082 ms (total: 1.84 sec)
+[2025.01.31-07.57.43:832][346]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.57.43:832][346]LogContentValidation: Enabled validators:
+[2025.01.31-07.57.43:832][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.57.43:832][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.57.43:832][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.57.43:832][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.57.43:832][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.57.43:832][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.57.43:833][346]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.57.45:372][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.31-07.57.52:940][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.57.52:971][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.57.52:977][180]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.57.52:977][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.57.52:985][180]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.57.52:985][180]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacterEFAF541E464CF5673B70D49958A7027C.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.57.52:994][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.733 ms (total: 1.89 sec)
+[2025.01.31-07.57.53:016][180]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.57.53:016][180]LogContentValidation: Enabled validators:
+[2025.01.31-07.57.53:016][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.57.53:016][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.57.53:016][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.57.53:016][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.57.53:016][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.57.53:016][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.57.53:016][180]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.57.55:033][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.31-07.57.56:428][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.57.56:463][489]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.57.56:469][489]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.57.56:469][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.57.56:477][489]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.57.56:477][489]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacterAE987D00446853A4AEEEF8B2FE47A868.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.57.56:484][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.556 ms (total: 1.95 sec)
+[2025.01.31-07.57.56:500][489]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.57.56:500][489]LogContentValidation: Enabled validators:
+[2025.01.31-07.57.56:500][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.57.56:500][489]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.57.56:500][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.57.56:500][489]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.57.56:500][489]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.57.56:500][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.57.56:500][489]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.58.09:614][711]LogContentBrowser: Deferred new asset file creation: NewTextureRenderTarget2D
+[2025.01.31-07.58.09:630][711]LogContentBrowser: Creating deferred item: NewTextureRenderTarget2D
+[2025.01.31-07.58.09:645][712]LogContentBrowser: Renaming the item being created (Deferred Item: NewTextureRenderTarget2D).
+[2025.01.31-07.58.19:456][669]LogContentBrowser: Attempting asset rename: NewTextureRenderTarget2D -> RT_MetisMinimap
+[2025.01.31-07.58.19:457][669]LogContentBrowser: End creating deferred item NewTextureRenderTarget2D
+[2025.01.31-07.58.23:966][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.58.23:988][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/RT_MetisMinimap] ([1] browsable assets)...
+[2025.01.31-07.58.23:989][ 82]OBJ SavePackage:     Rendered thumbnail for [TextureRenderTarget2D /Game/Metis/RT_MetisMinimap.RT_MetisMinimap]
+[2025.01.31-07.58.23:989][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/RT_MetisMinimap]
+[2025.01.31-07.58.23:989][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/RT_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/RT_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.58.24:012][ 82]LogSavePackage: Moving output files for package: /Game/Metis/RT_MetisMinimap
+[2025.01.31-07.58.24:012][ 82]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/RT_MetisMinimap6B17B9554886FB631EFD7FBB01E0346D.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/RT_MetisMinimap.uasset'
+[2025.01.31-07.58.24:020][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.109 ms (total: 2.01 sec)
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: Enabled validators:
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.58.24:041][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.58.24:041][ 82]AssetCheck: /Game/Metis/RT_MetisMinimap Validating asset
+[2025.01.31-07.58.30:907][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.58.30:941][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.58.30:950][706]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.58.30:950][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.58.30:959][706]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.58.30:959][706]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter542F67BD4B5DD4F5AE1DAD86CF59B88A.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.58.30:966][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.558 ms (total: 2.06 sec)
+[2025.01.31-07.58.30:981][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.58.30:981][706]LogContentValidation: Enabled validators:
+[2025.01.31-07.58.30:981][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.58.30:981][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.58.30:981][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.58.30:981][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.58.30:981][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.58.30:981][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.58.30:981][706]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.58.31:695][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.31-07.58.35:885][ 83]LogContentBrowser: Deferred new asset file creation: RT_MetisMinimap_Mat
+[2025.01.31-07.58.35:904][ 83]LogContentBrowser: Creating deferred item: RT_MetisMinimap_Mat
+[2025.01.31-07.58.35:920][ 84]LogContentBrowser: Renaming the item being created (Deferred Item: RT_MetisMinimap_Mat).
+[2025.01.31-07.58.39:600][411]LogContentBrowser: Attempting asset rename: RT_MetisMinimap_Mat -> M_MetisMinimap_Mat
+[2025.01.31-07.58.39:629][411]LogContentBrowser: End creating deferred item RT_MetisMinimap_Mat
+[2025.01.31-07.58.43:607][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2530.350342
+[2025.01.31-07.58.43:652][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-07.58.43:652][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2530.384521, Update Interval: 359.302338
+[2025.01.31-07.58.45:823][917]LogContentBrowser: Attempting asset rename: M_MetisMinimap_Mat -> M_MetisMinimap
+[2025.01.31-07.58.45:906][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.58.45:906][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/M_MetisMinimap] ([1] browsable assets)...
+[2025.01.31-07.58.46:743][917]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Metis/M_MetisMinimap.M_MetisMinimap]
+[2025.01.31-07.58.46:743][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/M_MetisMinimap]
+[2025.01.31-07.58.46:743][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/M_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.58.46:744][917]LogSavePackage: Moving output files for package: /Game/Metis/M_MetisMinimap
+[2025.01.31-07.58.46:744][917]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/M_MetisMinimap69EE623C4ADB711D04287AB6AE99E64B.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset'
+[2025.01.31-07.58.46:745][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 840.106 ms (total: 2.90 sec)
+[2025.01.31-07.58.46:772][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.31-07.58.46:791][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.31-07.58.46:804][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.31-07.58.46:830][917]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.58.46:830][917]LogContentValidation: Enabled validators:
+[2025.01.31-07.58.46:830][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.58.46:830][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.58.46:830][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.58.46:830][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.58.46:830][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.58.46:830][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.58.46:830][917]AssetCheck: /Game/Metis/M_MetisMinimap Validating asset
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: ================================================
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Total job queries 11,670, among them cache hits 7 (0.06%), DDC hits 0 (0.00%), Duplicates 2,682 (22.98%)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Tracking 8,981 distinct input hashes that result in 8,484 distinct outputs (94.47%)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: RAM used: 6.36 MiB of 1.60 GiB budget. Usage: 0.39%
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Shaders Compiled: 8,981
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Jobs assigned 8,981, completed 8,981 (100%)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Average time worker was idle: 13.04 s
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Time job spent in pending queue: average 166.40 s, longest 342.18 s
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Job execution time: average 3.15 s, max 59.13 s
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Job life time (pending + execution): average 169.55 s, max 342.63
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Shader code size: average 14.281 KiB, min 1.16 KiB, max 330.166 KiB
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 374.30 s
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.45%
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Jobs were issued in 1,001 batches (only local compilation was used), average 8.97 jobs/batch
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Average processing rate: 23.99 jobs/sec
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Total thread time: 2,832.213 s
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Total thread preprocess time: 89.495 s
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Percentage time preprocessing: 3.16%
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Effective parallelization: 7.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 9.28 sec, max 37.54 sec, min 0.69 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.08 sec, max 8.08 sec, min 8.08 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.14 sec, max 5.61 sec, min 3.25 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                      FHairDebugPrintMemoryCS (compiled    1 times, average 3.43 sec, max 3.43 sec, min 3.43 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                    FHairDebugPrintInstanceCS (compiled    1 times, average 2.39 sec, max 2.39 sec, min 2.39 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.50% of total time (compiled  454 times, average 0.84 sec, max 1.16 sec, min 0.60 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 11.29% of total time (compiled  260 times, average 1.23 sec, max 4.12 sec, min 0.00 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 8.84% of total time (compiled   27 times, average 9.28 sec, max 37.54 sec, min 0.69 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.16% of total time (compiled  480 times, average 0.30 sec, max 0.63 sec, min 0.13 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.96% of total time (compiled   72 times, average 1.56 sec, max 3.78 sec, min 1.05 sec)
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: === Material stats ===
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.31-07.58.46:838][917]LogShaderCompilers: Display: Materials Translated:    137
+[2025.01.31-07.58.46:839][917]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.01.31-07.58.46:839][917]LogShaderCompilers: Display: Material Translation Only: 0.03 s (30%)
+[2025.01.31-07.58.46:839][917]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.31-07.58.46:839][917]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.31-07.58.46:839][917]LogShaderCompilers: Display: ================================================
+[2025.01.31-07.58.53:714][481]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Metis/M_MetisMinimap.M_MetisMinimap
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.01.31-07.58.53:812][481]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.01.31-07.58.53:812][481]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.01.31-07.58.53:974][481]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.01.31-07.58.53:994][481]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.31-07.58.54:079][481]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.01.31-07.58.54:084][481]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.01.31-07.58.54:151][481]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.01.31-07.58.54:151][481]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.01.31-07.58.54:527][481]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.31-07.58.54:527][481]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.31-07.58.54:527][481]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.31-07.58.54:527][481]MaterialEditorStats: Shader Count: 0
+[2025.01.31-07.58.54:527][481]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.58.54:743][483]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.31-07.58.54:743][483]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.58.54:743][483]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.31-07.58.54:743][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.31-07.58.54:743][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.31-07.58.54:743][483]MaterialEditorStats: Shader Count: 5
+[2025.01.31-07.58.54:743][483]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.58.59:578][922]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.58.59:578][922]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.58.59:578][922]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.58.59:578][922]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.31-07.58.59:578][922]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.31-07.58.59:578][922]MaterialEditorStats: Shader Count: 0
+[2025.01.31-07.58.59:578][922]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.58.59:877][951]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.58.59:877][951]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.58.59:877][951]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.58.59:877][951]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.31-07.58.59:877][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.31-07.58.59:877][951]MaterialEditorStats: Shader Count: 2
+[2025.01.31-07.58.59:877][951]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.59.00:429][ 12]LogMaterialEditor: Saving and Compiling material M_MetisMinimap
+[2025.01.31-07.59.00:528][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.31-07.59.00:585][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.01.31-07.59.00:601][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.59.00:621][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/M_MetisMinimap] ([1] browsable assets)...
+[2025.01.31-07.59.01:500][ 12]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Metis/M_MetisMinimap.M_MetisMinimap]
+[2025.01.31-07.59.01:500][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/M_MetisMinimap]
+[2025.01.31-07.59.01:500][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/M_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.59.01:501][ 12]LogSavePackage: Moving output files for package: /Game/Metis/M_MetisMinimap
+[2025.01.31-07.59.01:502][ 12]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/M_MetisMinimapBEFEAEA54FBB88E9D4558FB67B4C578A.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset'
+[2025.01.31-07.59.01:510][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 909.094 ms (total: 3.81 sec)
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: Enabled validators:
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.59.01:534][ 12]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.59.01:534][ 12]AssetCheck: /Game/Metis/M_MetisMinimap Validating asset
+[2025.01.31-07.59.01:545][ 12]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.59.01:545][ 12]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.59.01:545][ 12]MaterialEditorStats: Instanced UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.59.01:545][ 12]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.31-07.59.01:545][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.31-07.59.01:545][ 12]MaterialEditorStats: Shader Count: 16
+[2025.01.31-07.59.01:546][ 12]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.59.02:500][116]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.59.02:500][116]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.59.02:501][116]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.59.02:501][116]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.31-07.59.02:501][116]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.31-07.59.02:501][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.31-07.59.02:501][116]MaterialEditorStats: Shader Count: 0
+[2025.01.31-07.59.02:501][116]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: Default UI Pixel Shader: 46 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: Shader Count: 2
+[2025.01.31-07.59.02:843][153]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.59.03:184][194]LogMaterialEditor: Saving and Compiling material M_MetisMinimap
+[2025.01.31-07.59.03:249][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.31-07.59.03:282][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.31-07.59.03:289][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.59.03:310][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metis/M_MetisMinimap] ([1] browsable assets)...
+[2025.01.31-07.59.04:203][194]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Metis/M_MetisMinimap.M_MetisMinimap]
+[2025.01.31-07.59.04:203][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/M_MetisMinimap]
+[2025.01.31-07.59.04:203][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/M_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.59.04:204][194]LogSavePackage: Moving output files for package: /Game/Metis/M_MetisMinimap
+[2025.01.31-07.59.04:206][194]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/M_MetisMinimap3F4D67944B0FDE2E9379E788389381A3.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset'
+[2025.01.31-07.59.04:213][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 923.817 ms (total: 4.74 sec)
+[2025.01.31-07.59.04:233][194]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.59.04:233][194]LogContentValidation: Enabled validators:
+[2025.01.31-07.59.04:233][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.59.04:233][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.59.04:233][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.59.04:233][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.59.04:233][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.59.04:233][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.59.04:233][194]AssetCheck: /Game/Metis/M_MetisMinimap Validating asset
+[2025.01.31-07.59.04:242][194]MaterialEditorStats: Default UI Pixel Shader: 46 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.31-07.59.04:242][194]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.59.04:242][194]MaterialEditorStats: Instanced UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.31-07.59.04:242][194]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.31-07.59.04:242][194]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.31-07.59.04:242][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.31-07.59.04:242][194]MaterialEditorStats: Shader Count: 16
+[2025.01.31-07.59.04:243][194]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.31-07.59.18:245][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.59.18:281][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-07.59.18:289][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-07.59.18:289][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-07.59.18:298][680]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-07.59.18:299][680]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter60167FAE40D0FCFCDF008DA988E77993.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-07.59.18:306][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.581 ms (total: 4.80 sec)
+[2025.01.31-07.59.18:330][680]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.59.18:330][680]LogContentValidation: Enabled validators:
+[2025.01.31-07.59.18:330][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.59.18:330][680]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.59.18:331][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.59.18:331][680]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.59.18:331][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.59.18:331][680]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.59.18:331][680]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-07.59.33:322][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-07.59.33:354][327]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Metis/WB_MetisMinimap] ([2] browsable assets)...
+[2025.01.31-07.59.33:356][327]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Metis/WB_MetisMinimap.WB_MetisMinimap]
+[2025.01.31-07.59.33:356][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metis/WB_MetisMinimap]
+[2025.01.31-07.59.33:356][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metis/WB_MetisMinimap" FILE="C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset" SILENT=true
+[2025.01.31-07.59.33:359][327]LogSavePackage: Moving output files for package: /Game/Metis/WB_MetisMinimap
+[2025.01.31-07.59.33:359][327]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/WB_MetisMinimap6C5C065B49F5C03F2D829189B0471657.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset'
+[2025.01.31-07.59.33:367][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.459 ms (total: 4.84 sec)
+[2025.01.31-07.59.33:386][327]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-07.59.33:386][327]LogContentValidation: Enabled validators:
+[2025.01.31-07.59.33:386][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-07.59.33:386][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-07.59.33:386][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-07.59.33:386][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-07.59.33:386][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-07.59.33:386][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-07.59.33:387][327]AssetCheck: /Game/Metis/WB_MetisMinimap Validating asset
+[2025.01.31-07.59.34:209][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.31-07.59.39:975][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.31-07.59.39:980][ 30]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.31-07.59.39:980][ 30]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.31-07.59.39:982][ 30]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.676 ms (total: 63.987 ms)
+[2025.01.31-07.59.39:982][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.31-07.59.40:017][ 30]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2025.01.31-07.59.40:019][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.01.31-07.59.40:037][ 31]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-07.59.40:040][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002488s)
+[2025.01.31-07.59.40:040][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002517s)
+[2025.01.31-07.59.40:058][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.31-07.59.40:064][ 31]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.31-07.59.40:065][ 31]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.31-07.59.40:065][ 31]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.31-07.59.40:065][ 31]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.31-07.59.40:065][ 31]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.31-07.59.40:066][ 31]LogWorldPartition: Display: WorldPartition initialize took 899 us (total: 70.040 ms)
+[2025.01.31-07.59.40:066][ 31]LogPlayLevel: PIE: World Init took: (0.002627s)
+[2025.01.31-07.59.40:066][ 31]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.31-07.59.40:066][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.31-07.59.40:066][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.31-07.59.40:066][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.31-07.59.40:066][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.31-07.59.40:066][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.31-07.59.40:066][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.31-07.59.40:066][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.31-07.59.40:066][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.31-07.59.40:066][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.31-07.59.40:066][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.31-07.59.40:066][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.31-07.59.40:069][ 31]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.31-07.59.40:099][ 31]LogAudioMixer: Display: Using Audio Hardware Device Speakers (5- Razer Kraken V3 Pro)
+[2025.01.31-07.59.40:099][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.31-07.59.40:099][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.31-07.59.40:099][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.31-07.59.40:099][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.31-07.59.40:099][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.31-07.59.40:102][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.31-07.59.40:102][ 31]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.31-07.59.40:102][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.31-07.59.40:102][ 31]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.01.31-07.59.40:102][ 31]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.31-07.59.40:104][ 31]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.31-07.59.40:105][ 31]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.01.31-02.59.40
+[2025.01.31-07.59.40:105][ 31]LogWorld: Bringing up level for play took: 0.001079
+[2025.01.31-07.59.40:109][ 31]PIE: Server logged in
+[2025.01.31-07.59.40:110][ 31]PIE: Play in editor total start time 0.131 seconds.
+[2025.01.31-08.00.34:867][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-08.00.34:867][869]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-08.00.34:867][869]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-08.00.34:868][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-08.00.34:868][869]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.31-08.00.34:871][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.31-08.00.34:877][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-08.00.34:893][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.31-08.00.34:894][869]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.31-08.00.34:894][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.31-08.00.34:896][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.31-08.00.34:900][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-08.00.34:902][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.31-08.00.34:958][870]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.01.31-08.00.53:030][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.31-08.00.53:063][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.31-08.00.53:069][778]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.31-08.00.53:069][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.31-08.00.53:077][778]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.31-08.00.53:077][778]LogSavePackage: Moving 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Saved/BP_ThirdPersonCharacter874150304C4B54E0B52E3096FC2000CD.tmp' to 'C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.31-08.00.53:086][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.659 ms (total: 4.90 sec)
+[2025.01.31-08.00.53:107][778]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.31-08.00.53:107][778]LogContentValidation: Enabled validators:
+[2025.01.31-08.00.53:107][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.31-08.00.53:107][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.31-08.00.53:107][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.31-08.00.53:107][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.31-08.00.53:107][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.31-08.00.53:107][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.31-08.00.53:107][778]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.31-08.00.54:928][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.31-08.00.54:932][958]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.31-08.00.54:932][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.31-08.00.54:933][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.614 ms (total: 65.601 ms)
+[2025.01.31-08.00.54:934][958]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.01.31-08.00.54:991][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.31-08.00.54:993][958]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2025.01.31-08.00.54:993][958]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.01.31-08.00.54:994][958]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.01.31-08.00.55:011][959]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-08.00.55:013][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002291s)
+[2025.01.31-08.00.55:013][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002315s)
+[2025.01.31-08.00.55:029][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.31-08.00.55:032][959]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.31-08.00.55:033][959]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.31-08.00.55:033][959]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.31-08.00.55:033][959]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.31-08.00.55:033][959]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.31-08.00.55:034][959]LogWorldPartition: Display: WorldPartition initialize took 837 us (total: 70.878 ms)
+[2025.01.31-08.00.55:034][959]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2025.01.31-08.00.55:034][959]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.31-08.00.55:034][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.31-08.00.55:034][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.31-08.00.55:034][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.31-08.00.55:034][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.31-08.00.55:034][959]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.31-08.00.55:034][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.31-08.00.55:034][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.31-08.00.55:034][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.31-08.00.55:034][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.31-08.00.55:034][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.31-08.00.55:034][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.31-08.00.55:036][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.31-08.00.55:064][959]LogAudioMixer: Display: Using Audio Hardware Device Speakers (5- Razer Kraken V3 Pro)
+[2025.01.31-08.00.55:064][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.31-08.00.55:064][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.31-08.00.55:064][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.31-08.00.55:065][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.31-08.00.55:065][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.31-08.00.55:066][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.31-08.00.55:066][959]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.31-08.00.55:066][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.31-08.00.55:066][959]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2025.01.31-08.00.55:066][959]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.31-08.00.55:069][959]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.31-08.00.55:070][959]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.01.31-03.00.55
+[2025.01.31-08.00.55:070][959]LogWorld: Bringing up level for play took: 0.000961
+[2025.01.31-08.00.55:073][959]PIE: Server logged in
+[2025.01.31-08.00.55:074][959]PIE: Play in editor total start time 0.143 seconds.
+[2025.01.31-08.00.56:717][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-08.00.56:717][101]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-08.00.56:718][101]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-08.00.56:718][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-08.00.56:718][101]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.31-08.00.56:720][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.31-08.00.56:726][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-08.00.56:743][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-08.00.56:743][101]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.31-08.00.56:743][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.31-08.00.56:744][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.31-08.00.56:752][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.31-08.00.56:801][102]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.01.31-08.00.59:813][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.31-08.01.02:746][624]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.31-08.01.02:750][624]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.31-08.01.02:750][624]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.31-08.01.02:751][624]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.596 ms (total: 67.198 ms)
+[2025.01.31-08.01.02:751][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.31-08.01.02:751][624]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.01.31-08.01.02:754][624]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.01.31-08.01.02:768][625]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-08.01.02:771][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002385s)
+[2025.01.31-08.01.02:771][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002411s)
+[2025.01.31-08.01.02:789][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.31-08.01.02:792][625]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.31-08.01.02:793][625]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.31-08.01.02:793][625]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.31-08.01.02:793][625]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.31-08.01.02:793][625]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.31-08.01.02:794][625]LogWorldPartition: Display: WorldPartition initialize took 840 us (total: 71.718 ms)
+[2025.01.31-08.01.02:794][625]LogPlayLevel: PIE: World Init took: (0.001984s)
+[2025.01.31-08.01.02:794][625]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.01.31-08.01.02:794][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.31-08.01.02:794][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.31-08.01.02:794][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.31-08.01.02:794][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.31-08.01.02:794][625]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.31-08.01.02:794][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.31-08.01.02:794][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.31-08.01.02:794][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.31-08.01.02:794][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.31-08.01.02:794][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.31-08.01.02:794][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.31-08.01.02:797][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.31-08.01.02:824][625]LogAudioMixer: Display: Using Audio Hardware Device Speakers (5- Razer Kraken V3 Pro)
+[2025.01.31-08.01.02:824][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.31-08.01.02:824][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.31-08.01.02:824][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.31-08.01.02:825][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.01.31-08.01.02:825][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.01.31-08.01.02:827][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.01.31-08.01.02:827][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.01.31-08.01.02:827][625]LogInit: FAudioDevice initialized with ID 7.
+[2025.01.31-08.01.02:827][625]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2025.01.31-08.01.02:827][625]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.31-08.01.02:830][625]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.31-08.01.02:831][625]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.01.31-03.01.02
+[2025.01.31-08.01.02:832][625]LogWorld: Bringing up level for play took: 0.000979
+[2025.01.31-08.01.02:835][625]PIE: Server logged in
+[2025.01.31-08.01.02:836][625]PIE: Play in editor total start time 0.086 seconds.
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: ================================================
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Total job queries 11,748, among them cache hits 36 (0.31%), DDC hits 0 (0.00%), Duplicates 2,682 (22.83%)
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Tracking 9,030 distinct input hashes that result in 8,521 distinct outputs (94.36%)
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: RAM used: 6.38 MiB of 1.60 GiB budget. Usage: 0.39%
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Shaders Compiled: 9,030
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Jobs assigned 9,030, completed 9,030 (100%)
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Average time worker was idle: 19.57 s
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Time job spent in pending queue: average 165.50 s, longest 342.18 s
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Job execution time: average 3.14 s, max 59.13 s
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Job life time (pending + execution): average 168.64 s, max 342.63
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Shader code size: average 14.237 KiB, min 1.16 KiB, max 330.166 KiB
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 379.21 s
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.45%
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Jobs were issued in 1,050 batches (only local compilation was used), average 8.60 jobs/batch
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Average processing rate: 23.81 jobs/sec
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Total thread time: 2,846.199 s
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Total thread preprocess time: 90.222 s
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Percentage time preprocessing: 3.17%
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Effective parallelization: 7.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 9.28 sec, max 37.54 sec, min 0.69 sec)
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.08 sec, max 8.08 sec, min 8.08 sec)
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.14 sec, max 5.61 sec, min 3.25 sec)
+[2025.01.31-08.01.46:843][552]LogShaderCompilers: Display:                                      FHairDebugPrintMemoryCS (compiled    1 times, average 3.43 sec, max 3.43 sec, min 3.43 sec)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display:                                    FHairDebugPrintInstanceCS (compiled    1 times, average 2.39 sec, max 2.39 sec, min 2.39 sec)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.44% of total time (compiled  454 times, average 0.84 sec, max 1.16 sec, min 0.60 sec)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 11.24% of total time (compiled  260 times, average 1.23 sec, max 4.12 sec, min 0.00 sec)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 8.80% of total time (compiled   27 times, average 9.28 sec, max 37.54 sec, min 0.69 sec)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.14% of total time (compiled  480 times, average 0.30 sec, max 0.63 sec, min 0.13 sec)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.95% of total time (compiled   72 times, average 1.56 sec, max 3.78 sec, min 1.05 sec)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: === Material stats ===
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: Materials Translated:    150
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: Material Translation Only: 0.03 s (23%)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.31-08.01.46:844][552]LogShaderCompilers: Display: ================================================
+[2025.01.31-08.02.21:807][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-08.02.21:807][638]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.31-08.02.21:807][638]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-08.02.21:807][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-08.02.21:807][638]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.31-08.02.21:810][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.31-08.02.21:815][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-08.02.21:830][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.31-08.02.21:830][638]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.31-08.02.21:830][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.31-08.02.21:832][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.31-08.02.21:838][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.31-08.02.21:894][639]LogPlayLevel: Display: Destroying online subsystem :Context_14
