@@ -6,10 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset",
 				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/WB_MetisMinimap.uasset",
 				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/RT_MetisMinimap.uasset",
-				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset"
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/M_MetisMinimap.uasset",
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/AC_MetisMapTarget.uasset",
+				"C:/Dev/Repositories/Metis-Map-System/MetisProto/Content/Metis/NewWidgetBlueprint.uasset"
 			]
 		}
 	]
