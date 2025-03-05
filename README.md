@@ -5,6 +5,17 @@
 So far, templated blueprints for locations and moving players have been implemented, with code to update the rotation on the minimap. As well, locations can track when players pass through and update accordingly, although that functionality just prints a string at the moment.
 There is still much more to do that will be done later, but feel free to at least view my progress so far.
 
+Finishing the project will involve many late nights working, but here's a list of yet-to-be-implemented features:
+- Map Screen
+- Player Pings
+- Location Logic
+- Icon Visibility Adjustments
+- Minimap Border Customization
+- Map Screen Customization
+- Custom Map Markers
+
+There are no plans at the moment to make this plugin multiplayer-compatible.
+
 ## About
 
 For my portfolio centerpiece solo project, I plan to add a map and minimap system which would feature beacon waypoints, custom waypoint pings, custom waypoint colors, and local feature recognition which would update and show on the map. As a programmer who enjoys and wants to find a role in systems, I believe map systems are a good portion of modern open-world games, and this project would also assert my skills in UI programming.
