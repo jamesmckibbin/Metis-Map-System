@@ -1,5 +1,12 @@
 # Metis-Map-System
 
+## Update
+
+So far, templated blueprints for locations and moving players have been implemented, with code to update the rotation on the minimap. As well, locations can track when players pass through and update accordingly, although that functionality just prints a string at the moment.
+There is still much more to do that will be done later, but feel free to at least view my progress so far.
+
+## About
+
 For my portfolio centerpiece solo project, I plan to add a map and minimap system which would feature beacon waypoints, custom waypoint pings, custom waypoint colors, and local feature recognition which would update and show on the map. As a programmer who enjoys and wants to find a role in systems, I believe map systems are a good portion of modern open-world games, and this project would also assert my skills in UI programming.
 
 As for my choice of tools, I plan to use Unreal Engine 5’s latest version for this feature, as most unrelated items and frameworks such as character movement will already be present. As well, Unreal Engine has become a staple engine for a lot of game studios in the industry, and no matter how much work I’ve already done in Unreal, I can always gain more familiarity with it. As for other technologies, I plan to use Unreal’s Blueprint to implement logic for the map, as well as widgets for the UI components. There is also the possibility that I will use C++ within Unreal to implement some features.
